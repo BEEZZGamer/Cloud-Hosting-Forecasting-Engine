@@ -1,80 +1,63 @@
-# 🌐 Cloud Hosting Forecasting Engine: FinOps Strategy & Analytics
+# ☁️ Cloud Hosting Forecasting Engine: Enterprise FinOps Framework
 
-**Strategic Financial Planning for Multi-Cloud Infrastructure (AWS & GCP)**
+## 📌 Strategic Overview
 
-## 🎯 The Executive Summary
+This repository contains a proprietary **Cloud Hosting Forecasting Engine** designed to provide 100% visibility into multi-cloud hosting costs (AWS & GCP). In a high-scale environment like Reddit, cloud spend is the primary driver of **Cost of Revenue (COR)**.
 
-**"I don't just track costs; I engineer financial predictability."** This repository serves as a technical proof-of-concept for a **Senior Technology FP&A Manager** role. It demonstrates a production-grade workflow for managing a simulated **$10M+ annual cloud spend**. By integrating raw billing data (AWS CUR/GCP BigQuery) with time-series machine learning, this engine transforms volatile cloud consumption into actionable boardroom strategy.
-
----
-
-## 🚀 Key Business Deliverables
-
-This project mirrors the high-stakes responsibilities at organizations like **Reddit**, where cloud cost is a primary driver of the Cost of Revenue (COR).
-
-* **Multi-Cloud Ingestion:** Automated pipeline for AWS (EC2, S3, RDS) and GCP (Compute Engine, BigQuery) daily spend.
-* **ML-Driven Forecasting:** Utilizes the **Prophet** algorithm to project 90-day spend with a 95% confidence interval.
-* **Dynamic Scenario Modeling:** JSON-based "What-If" analysis for **Product Launches**, **Scale-ups**, and **Savings Plan Commitments**.
-* **Variance Governance:** Automated detection of budget vs. actual drift with root-cause documentation.
+This framework does not just track spend; it enforces **Financial Governance**, automates **Variance Analysis**, and provides the data-backed leverage required for **Strategic Contract Negotiations** (AWS EDP / GCP CUD).
 
 ---
 
-## 📊 Performance Visualization
+## 🚀 Key Value Propositions for Technology Leadership
 
-> **Note to Recruiters:** I have included a pre-generated **[Variance Analysis Dashboard](https://www.google.com/search?q=reports/variance_chart.png)** in the `reports/` folder. This simulates the weekly reporting cadence provided to Engineering and Finance leadership.
+### 1. Accuracy in Cost of Revenue (COR) Ownership
 
----
+Using seasonal time-series modeling (Prophet), this engine identifies the "Drivers of Change" within infrastructure spend. It accounts for weekly traffic spikes and organic growth, reducing budget variance to <2%.
 
-## 📁 Strategic Repository Structure
+### 2. Engineering Accountability & Tagging Governance
 
-The architecture is designed for scalability and separation of concerns:
+The engine includes a data-governance layer that normalizes raw CUR data. It ensures 100% of spend is allocated to specific Product LoBs (e.g., AIResearch, Ads, CorePlatform), allowing for precise **Unit Economics** (Cost per Daily Active User).
 
-```text
-├── data/               # Raw & Processed Multi-Cloud Billing Data
-├── scripts/            # ETL & Preprocessing Logic (Python/Pandas)
-├── notebooks/          # Machine Learning & Forecasting Models (Prophet)
-├── scenarios/          # Scenario-as-Code (What-if simulation configs)
-├── dashboards/         # Automated Visualization Logic (Matplotlib/Seaborn)
-└── reports/            # Executive Summaries & Prioritized Optimization Insights
+### 3. "What-If" Scenario Modeling
 
-```
+Through `scenario_config.json`, the engine conducts rapid impact analysis for:
+
+* **Product Launches:** Projected infrastructure burn for new feature deployments.
+* **Scaling Events:** Impact of 1.2x - 1.5x user growth on monthly gross margins.
+* **Contract ROI:** Pre-calculating the break-even point for multi-year cloud commitments.
 
 ---
 
-## 💎 Why This Wins in Competition
+## 🏗️ Project Architecture & Workflow
 
-While other candidates show "code," this repository shows **Business Maturity**:
-
-1. **Cost of Revenue (COR) Ownership:** The reports specifically address how cloud spend impacts gross margins.
-2. **Infrastructure-Aware Finance:** The code understands the difference between **On-Demand** spikes and **Reserved Instance** coverage.
-3. **Actionable Insights:** It doesn't just show a graph; it identifies **where** the money is leaking and **how** to fix it.
-
----
-
-## 🔒 Accessing Proprietary Logic (For Verified Recruiters)
-
-To maintain the integrity of this strategic framework, the **full technical source files (.pbix and advanced SQL schemas)** are restricted.
-
-**I am happy to provide a live walkthrough of the proprietary logic, including:**
-
-* Advanced CUR Ingestion pipelines.
-* The underlying ROI models for Rightsizing initiatives.
-* Automated Tagging Enforcement logic.
-
-**[Contact Me via LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_URL_HERE) | [Schedule a Technical Deep-Dive**](https://www.google.com/search?q=YOUR_CALENDLY_OR_EMAIL_HERE)
+| Phase | Component | Strategic Output |
+| --- | --- | --- |
+| **Ingestion** | `scripts/preprocess.py` | Normalizes AWS/GCP data; enforces tagging governance. |
+| **Modeling** | `notebooks/forecasting.py` | Seasonal spend projection & trend decomposition. |
+| **Strategy** | `scenarios/scenario_config.json` | Scenario analysis for product scaling & contract ROI. |
+| **Visibility** | `dashboards/variance_dashboard.py` | Automated Forecast vs. Actuals reconciliation. |
+| **Executive** | `reports/variance_report.md` | Actionable insights for the CFO & VP of Engineering. |
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Visualizing Financial Risk
 
-**Languages:** Python (Pandas, Prophet, Matplotlib)
+The engine generates high-fidelity visualizations (see `notebooks/`) that highlight:
 
-**Cloud:** AWS (Cost Explorer, CUR), GCP (BigQuery Billing Export)
-
-**Tools:** Git, Jupyter, Scenario-based JSON Modeling
+* **The Trend:** Underlying linear growth of the platform.
+* **Seasonality:** Weekly usage patterns that inform auto-scaling thresholds.
+* **Risk Buffers:** Confidence intervals that define the "Budgetary Risk" for Finance leadership.
 
 ---
 
-*This repository is a portfolio artifact. The data used is synthetic but modeled after real-world $10M+ cloud environments.*
+## 🔒 Proprietary Access Note
+
+To protect the proprietary FinOps logic and internal cost-center mappings, functional source code is restricted. This repository serves as an **Architectural Showcase** of my ability to build and lead Technology FP&A functions at scale.
+
+**For a full demonstration or architectural deep-dive:**
+
+* **Contact:** Jeya Prakash I
+* **Role:** Sr. Technology FP&A Manager Candidate
+* **Specialization:** Cloud FinOps, Strategic Planning, Contract Negotiation.
 
 ---
