@@ -2,7 +2,7 @@
 
 ![FinOps](https://img.shields.io/badge/Focus-FinOps%20%26%20Unit%20Economics-blueviolet?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/Platform-AWS%20%7C%20GCP-orange?style=for-the-badge)
-![Python](https://img.shields.io/badge/Stack-Python%20%7C%20Prophet%20%7C%20SQL-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Stack-Python%20%7C%20Prophet%20%7C%20Pandas-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Strategy-Production%20Ready-green?style=for-the-badge)
 
 ## 📌 Strategic Overview
