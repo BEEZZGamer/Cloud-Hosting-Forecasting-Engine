@@ -1,1 +1,9 @@
-
+{
+  "description": "Reddit Scaling & Launch Scenario Template",
+  "growth_models": {
+    "organic_scaling": "Calculated factor (e.g., 1.2x DAU growth)",
+    "strategic_launch": "Fixed cost injection per service tier",
+    "contract_optimization": "Projected savings from AWS EDP / GCP CUD negotiations"
+  },
+  "usage": "Use this file to model COR impact of engineering roadmap changes."
+}
