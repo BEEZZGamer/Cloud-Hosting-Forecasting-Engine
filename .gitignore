@@ -1,16 +1,20 @@
-# --- FinOps Project Specifics ---
-# Ignore all raw/processed data to protect proprietary billing info
+# --- FinOps Project Data Security ---
+# Block all raw and processed billing data (AWS CUR/GCP Exports)
 data/*.csv
 reports/*.csv
+forecasts/*.csv
 
-# EXCEPT the sample file used for the public showcase
+# EXCEPT the sample file for recruiter demonstration
 !data/cur_sample.csv
 
-# Ignore generated visualization outputs (keep the repo light)
+# --- Visualization & Reporting ---
+# Ignore generated charts (let others run your code to see them)
 reports/*.png
 notebooks/*.png
+dashboards/*.json
 
-# --- Python Environment & Junk ---
+# --- Python Environment ---
+# Standard Python ignore rules for a clean repo
 venv/
 env/
 .env
@@ -19,13 +23,8 @@ __pycache__/
 .ipynb_checkpoints/
 .python-version
 
-# --- OS Specific Files ---
-.DS_Store
-.DS_Store?
-._*
-Thumbs.db
-desktop.ini
-
-# --- VS Code / Tools ---
+# --- IDE & OS Junk ---
 .vscode/
 .idea/
+.DS_Store
+Thumbs.db
