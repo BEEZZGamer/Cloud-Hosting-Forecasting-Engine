@@ -1,1 +1,151 @@
-
+date,account_id,project,service,usage_type,region,cost
+2025-01-01,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,15230.45
+2025-01-01,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4320.10
+2025-01-01,987654321,Analytics,AmazonRDS,Database,us-west-2,6450.00
+2025-01-01,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,9800.30
+2025-01-01,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,5600.00
+2025-01-02,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,16050.75
+2025-01-02,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4210.25
+2025-01-02,987654321,Analytics,AmazonRDS,Database,us-west-2,6620.00
+2025-01-02,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,10250.50
+2025-01-02,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,5750.00
+2025-01-03,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17005.60
+2025-01-03,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4315.40
+2025-01-03,987654321,Analytics,AmazonRDS,Database,us-west-2,6780.00
+2025-01-03,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11075.75
+2025-01-03,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,5900.00
+2025-01-04,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17120.50
+2025-01-04,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4350.20
+2025-01-04,987654321,Analytics,AmazonRDS,Database,us-west-2,6825.00
+2025-01-04,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11150.00
+2025-01-04,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,5950.00
+2025-01-05,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17240.75
+2025-01-05,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4390.10
+2025-01-05,987654321,Analytics,AmazonRDS,Database,us-west-2,6890.00
+2025-01-05,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11220.25
+2025-01-05,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6000.00
+2025-01-06,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17360.80
+2025-01-06,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4425.00
+2025-01-06,987654321,Analytics,AmazonRDS,Database,us-west-2,6950.00
+2025-01-06,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11300.00
+2025-01-06,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6050.00
+2025-01-07,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17480.90
+2025-01-07,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4460.00
+2025-01-07,987654321,Analytics,AmazonRDS,Database,us-west-2,7000.00
+2025-01-07,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11380.00
+2025-01-07,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6100.00
+2025-01-08,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17600.00
+2025-01-08,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4495.00
+2025-01-08,987654321,Analytics,AmazonRDS,Database,us-west-2,7050.00
+2025-01-08,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11450.00
+2025-01-08,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6150.00
+2025-01-09,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17720.00
+2025-01-09,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4530.00
+2025-01-09,987654321,Analytics,AmazonRDS,Database,us-west-2,7100.00
+2025-01-09,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11520.00
+2025-01-09,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6200.00
+2025-01-10,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17840.00
+2025-01-10,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4570.00
+2025-01-10,987654321,Analytics,AmazonRDS,Database,us-west-2,7150.00
+2025-01-10,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11600.00
+2025-01-10,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6250.00
+2025-01-11,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,17960.00
+2025-01-11,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4610.00
+2025-01-11,987654321,Analytics,AmazonRDS,Database,us-west-2,7200.00
+2025-01-11,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11700.00
+2025-01-11,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6300.00
+2025-01-12,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18080.00
+2025-01-12,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4650.00
+2025-01-12,987654321,Analytics,AmazonRDS,Database,us-west-2,7250.00
+2025-01-12,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11800.00
+2025-01-12,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6350.00
+2025-01-13,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18200.00
+2025-01-13,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4690.00
+2025-01-13,987654321,Analytics,AmazonRDS,Database,us-west-2,7300.00
+2025-01-13,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,11900.00
+2025-01-13,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6400.00
+2025-01-14,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18320.00
+2025-01-14,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4730.00
+2025-01-14,987654321,Analytics,AmazonRDS,Database,us-west-2,7350.00
+2025-01-14,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12000.00
+2025-01-14,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6450.00
+2025-01-15,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18440.00
+2025-01-15,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4770.00
+2025-01-15,987654321,Analytics,AmazonRDS,Database,us-west-2,7400.00
+2025-01-15,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12100.00
+2025-01-15,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6500.00
+2025-01-16,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18560.00
+2025-01-16,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4810.00
+2025-01-16,987654321,Analytics,AmazonRDS,Database,us-west-2,7450.00
+2025-01-16,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12200.00
+2025-01-16,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6550.00
+2025-01-17,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18680.00
+2025-01-17,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4850.00
+2025-01-17,987654321,Analytics,AmazonRDS,Database,us-west-2,7500.00
+2025-01-17,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12300.00
+2025-01-17,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6600.00
+2025-01-18,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18800.00
+2025-01-18,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4890.00
+2025-01-18,987654321,Analytics,AmazonRDS,Database,us-west-2,7550.00
+2025-01-18,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12400.00
+2025-01-18,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6650.00
+2025-01-19,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,18920.00
+2025-01-19,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4930.00
+2025-01-19,987654321,Analytics,AmazonRDS,Database,us-west-2,7600.00
+2025-01-19,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12500.00
+2025-01-19,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6700.00
+2025-01-20,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19040.00
+2025-01-20,123456789,CorePlatform,AmazonS3,Storage,us-east-1,4970.00
+2025-01-20,987654321,Analytics,AmazonRDS,Database,us-west-2,7650.00
+2025-01-20,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12600.00
+2025-01-20,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6750.00
+2025-01-21,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19160.00
+2025-01-21,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5010.00
+2025-01-21,987654321,Analytics,AmazonRDS,Database,us-west-2,7700.00
+2025-01-21,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12700.00
+2025-01-21,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6800.00
+2025-01-22,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19280.00
+2025-01-22,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5050.00
+2025-01-22,987654321,Analytics,AmazonRDS,Database,us-west-2,7750.00
+2025-01-22,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12800.00
+2025-01-22,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6850.00
+2025-01-23,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19400.00
+2025-01-23,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5090.00
+2025-01-23,987654321,Analytics,AmazonRDS,Database,us-west-2,7800.00
+2025-01-23,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,12900.00
+2025-01-23,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6900.00
+2025-01-24,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19520.00
+2025-01-24,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5130.00
+2025-01-24,987654321,Analytics,AmazonRDS,Database,us-west-2,7850.00
+2025-01-24,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13000.00
+2025-01-24,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,6950.00
+2025-01-25,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19640.00
+2025-01-25,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5170.00
+2025-01-25,987654321,Analytics,AmazonRDS,Database,us-west-2,7900.00
+2025-01-25,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13100.00
+2025-01-25,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,7000.00
+2025-01-26,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19760.00
+2025-01-26,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5210.00
+2025-01-26,987654321,Analytics,AmazonRDS,Database,us-west-2,7950.00
+2025-01-26,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13200.00
+2025-01-26,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,7050.00
+2025-01-27,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,19880.00
+2025-01-27,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5250.00
+2025-01-27,987654321,Analytics,AmazonRDS,Database,us-west-2,8000.00
+2025-01-27,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13300.00
+2025-01-27,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,7100.00
+2025-01-28,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,20000.00
+2025-01-28,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5290.00
+2025-01-28,987654321,Analytics,AmazonRDS,Database,us-west-2,8050.00
+2025-01-28,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13400.00
+2025-01-28,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,7150.00
+2025-01-29,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,20120.00
+2025-01-29,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5330.00
+2025-01-29,987654321,Analytics,AmazonRDS,Database,us-west-2,8100.00
+2025-01-29,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13500.00
+2025-01-29,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,7200.00
+2025-01-30,123456789,CorePlatform,AmazonEC2,OnDemand,us-east-1,20240.00
+2025-01-30,123456789,CorePlatform,AmazonS3,Storage,us-east-1,5370.00
+2025-01-30,987654321,Analytics,AmazonRDS,Database,us-west-2,8150.00
+2025-01-30,555555555,AIResearch,GCP Compute Engine,N1 Standard,us-central1,13600.00
+2025-01-30,555555555,AIResearch,GCP BigQuery,Analysis,us-central1,7250.00
