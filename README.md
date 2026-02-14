@@ -5,7 +5,7 @@ A recruiter‑ready FinOps portfolio project that simulates **multi‑cloud host
 ---
 
 ## 📌 Elevator Pitch
-**Translate raw billing into business impact.** Ingest simulated CUR data, clean and aggregate daily spend, train a Prophet forecasting model, run scenario simulations, and produce variance dashboards with prioritized optimization recommendations — all framed for hiring managers who need measurable cost control and forecasting leadership.
+**Translate raw billing into business impact.** This repository ingests simulated CUR data, cleans and aggregates daily spend, trains a Prophet forecasting model, runs scenario simulations, and produces variance dashboards with prioritized optimization recommendations — all framed for hiring managers who need measurable cost control and forecasting leadership.
 
 ---
 
@@ -15,7 +15,9 @@ A recruiter‑ready FinOps portfolio project that simulates **multi‑cloud host
 - **Forecasting** — Prophet model projecting 90 days forward from a 30‑day baseline.  
 - **Scenario Analysis** — JSON‑driven configs for scale up, product launch, and contract commitments.  
 - **Variance Dashboard** — Forecast vs actual visualizations and saved artifacts.  
-- **Variance Report** — Recruiter‑ready interpretation and prioritized optimization recommendations.
+- **Variance Report** — Recruiter‑ready interpretation and prioritized optimization recommendations.  
+
+> **Note:** Technical source files (.pbix) and detailed data schemas are proprietary and available **only upon request for verified recruiters**. This ensures the project remains a portfolio artifact and cannot be cloned or reused by competitors.
 
 ---
 
@@ -30,7 +32,7 @@ A recruiter‑ready FinOps portfolio project that simulates **multi‑cloud host
 - **scenarios/**  
   - `scenario_config.json` — scenario parameters: scale_up, product_launch, contract_commitment.  
 - **dashboards/**  
-  - `variance_dashboard.py` — merges forecast vs actual, computes variance, saves chart.  
+  - `variance_dashboard.py` — merges forecast and actuals, computes variance, saves chart.  
 - **reports/**  
   - `forecast.csv` — forecasted values with confidence intervals.  
   - `variance_chart.png` — saved visualization.  
@@ -51,17 +53,17 @@ A recruiter‑ready FinOps portfolio project that simulates **multi‑cloud host
 - **Business impact statement** at the top showing expected cost base and forecast horizon.  
 - **One‑line result** in `reports/variance_report.md` summarizing the top insight (for example, “Model overforecasted mid‑month by X%; reserved instance strategy could save Y% annually”).  
 - **Demo assets**: include a 2‑minute screencast and a 1‑page PDF summary for quick review.  
-- **Access control**: keep the full code in a private repo and publish demo artifacts publicly; offer private invites or live demos for technical interviews.
+- **Access control**: full technical source files are **not public**; recruiters may request access for verified review.
 
 ---
 
 ## 📣 Amplification Tips
 - Add GitHub badges for Python, Prophet, AWS, and GCP.  
 - Record a 2‑minute demo video walking through preprocessing → forecasting → variance dashboard and link it in the repo.  
-- Post the variance chart and 3 key insights on LinkedIn with a short case summary.  
+- Post the variance chart and three key insights on LinkedIn with a short case summary.  
 - Publish a short writeup on Medium describing the business impact and optimization recommendations.
 
 ---
 
 ## 🧭 Final Note
-This repo is intentionally structured to demonstrate **technical execution**, **business judgment**, and **multi‑cloud FinOps leadership**. Paste this README into your GitHub root to present a polished, recruiter‑focused portfolio artifact.
+This repository is intentionally structured to demonstrate **technical execution**, **business judgment**, and **multi‑cloud FinOps leadership**. It is a **portfolio artifact** designed to impress recruiters while protecting proprietary implementation details.
